@@ -26,7 +26,13 @@
       ],
       "@screens/*": [
         "src/screens/*"
-      ]
+      ],
+      "@assets/*": [
+        "src/assets/*"
+      ],
+      "@styles/*": [
+        "src/styles/*"
+      ],
     }
   },
   "exclude": [
